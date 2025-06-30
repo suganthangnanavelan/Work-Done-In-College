@@ -17,7 +17,6 @@
 
 This repository is a collection of all the programming work I completed throughout my college journey.
 
----
 
 This repository contains all the code I've written, along with some reference code from other sources. Feel free to use or modify it — it's all available under the MIT License.
 
@@ -169,8 +168,6 @@ Root/
 └── .gitignore
 ```
 ---
-
-### What’s Inside
 
 #### Artificial Intelligence & Data Science
 AI agent implementations, search algorithms, decision-making models.
