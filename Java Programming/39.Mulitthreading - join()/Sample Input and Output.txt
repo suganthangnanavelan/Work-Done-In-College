@@ -1,0 +1,26 @@
+Time:  State = RUNNABLE IsAlive = true  Priority = 1
+Random:  State = NEW IsAlive = false  Priority = 5
+2023/10/01, 12:24:24
+2023/10/01, 12:24:25
+2023/10/01, 12:24:26
+2023/10/01, 12:24:28
+2023/10/01, 12:24:29
+2023/10/01, 12:24:30
+2023/10/01, 12:24:31
+2023/10/01, 12:24:32
+2023/10/01, 12:24:33
+2023/10/01, 12:24:34
+Time:  State = TERMINATED IsAlive = false  Priority = 1
+Random:  State = RUNNABLE IsAlive = true  Priority = 5
+544
+996
+900
+504
+972
+716
+671
+589
+96
+472
+Time:  State = TERMINATED IsAlive = false  Priority = 1
+Random:  State = TERMINATED  IsAlive = false  Priority = 5

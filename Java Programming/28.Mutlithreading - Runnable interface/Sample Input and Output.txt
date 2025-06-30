@@ -1,0 +1,18 @@
+main    10 - 0 = 10
+Thread1 10 x 0 = 0
+Thread2 10 + 0 = 10
+main    10 - 1 = 9
+Thread1 10 x 1 = 10
+Thread2 10 + 1 = 11
+Thread2 10 + 2 = 12
+Thread1 10 x 2 = 20
+main    10 - 2 = 8
+main    10 - 3 = 7
+Thread1 10 x 3 = 30
+Thread2 10 + 3 = 13
+main    10 - 4 = 6
+Thread1 10 x 4 = 40
+Thread2 10 + 4 = 14
+Thread1 State = TERMINATED      Priority = 5
+Thread2 State = TERMINATED      Priority = 5
+main    State = RUNNABLE        Priority = 5

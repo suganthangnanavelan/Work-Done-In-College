@@ -1,0 +1,53 @@
+Java
+jdk20
+Programming
+
+String = Object Oriented Programming
+String(Lowercase) = object oriented programming
+String(Uppercase) = OBJECT ORIENTED PROGRAMMING
+String is empty = false
+Length = 27
+Substring = Object
+Length of substring = 6
+String concatenation = Object Oriented Programming in java
+First Index of 'e' = 3
+Last Index of 'e' = 13
+Traversing the String character by character
+O b j e c t   O r i e n t e d   P r o g r a m m i n g
+Substring equal to 'object' = false
+Substring equal to 'object' (Ignore case) = true
+String starts with 'java' = false
+String starts with 'Obj' = true
+String ends with 'ing' = true
+Region matching of "Object" with string(0(index),6(noofchars)) = true
+Region matching of "program" with string(16(index),23(noofchars)) = false
+Region matching of "program" with string(16(index),23(noofchars))-Ignore case) = true
+Character at index 16 = P
+Replace first 'O' with 'Q' = Qbject Oriented Programming
+Replace all 'O' with 'Q' = Qbject Qriented Programming
+String spliting (delimiter = ' ')
+Object
+Oriented
+Programming
+Joining Strings (delimiter = '_') = Programming_in_java
+String = "   Programming in java   "
+Triming whitespaces = "Programming in java"
+Strip leading whitespaces = "Programming in java   "
+Strip trailing whitespaces = "   Programming in java"
+Strip leading and trailing whitespaces = "Programming in java"
+Coverting 10(int) to String = 10
+Coverting 1.234(float) to String = 1.234
+Coverting 'x'(char) to String = x
+Coverting true(boolean) to String = true
+String = hello
+String in reverse = olleh
+String = racecar
+String in reverse = racecar
+String = This was converted into a byte[]
+String = was converted into a char[] using getChars()
+String = This was converted into a char[] using toCharArray()
+String value remains unchanged(immutable type) = Object Oriented Programming
+Unsorted Array
+IT  CSE  ICT  MECH  AIDS
+Sorted Array
+AIDS  CSE  ICT  IT  MECH

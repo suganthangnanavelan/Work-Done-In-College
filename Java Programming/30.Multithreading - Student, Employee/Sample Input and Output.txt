@@ -1,0 +1,130 @@
+
+Enter The Id, Name, Basic Pay of Employee 1: 1001 Hendrick 35000.0
+
+Enter The Rollno, Name, Date of Birth(dd/mm/yyyy), Marks Scored in Five Subjects of Student 1: 191092 Kishore 20/06/2004 90.0 100.0 75.0 85.0 99.0
+
+Enter The Id, Name, Basic Pay of Employee 2: 1002 Ganesh 74000.0
+
+Enter The Rollno, Name, Date of Birth(dd/mm/yyyy), Marks Scored in Five Subjects of Student 2: 191093 Jasprit 07/03/2005 99 96 89 95 93
+
+Enter The Id, Name, Basic Pay of Employee 3: 1003 Naveen 26000.0
+
+Enter The Rollno, Name, Date of Birth(dd/mm/yyyy), Marks Scored in Five Subjects of Student 3: 191094 Deepak 22/04/2005 50 56 53 60 66
+
+Enter The Id, Name, Basic Pay of Employee 4: 1004 Ramesh 65000.0
+
+Enter The Rollno, Name, Date of Birth(dd/mm/yyyy), Marks Scored in Five Subjects of Student 4: 191095 Praveen 30/06/2004 90 89 60 50 69
+
+Enter The Id, Name, Basic Pay of Employee 5: 1005 Tezza 80000.0
+
+Enter The Rollno, Name, Date of Birth(dd/mm/yyyy), Marks Scored in Five Subjects of Student 5: 191094 Vishnu 03/07/2004 92 89 72 89 83
+
+
+Employee 1
+-----------------------
+EmpId: 1001
+Name: Hendrick
+Basic Pay = 35000.0
+HRA = 3500.0
+DA = 17500.0
+PF = 350.0
+Gross Pay =56000.0
+Net Pay = 55650.0
+-----------------------
+
+
+Student 1
+-----------------------
+Rollno: 191092
+Name: Kishore
+DateofBirth: 20/06/2004
+CGPA = A+
+-----------------------
+
+
+Employee 2
+-----------------------
+EmpId: 1002
+Name: Ganesh
+Basic Pay = 74000.0
+HRA = 7400.0
+DA = 37000.0
+PF = 740.0
+Gross Pay =118400.0
+Net Pay = 117660.0
+-----------------------
+
+
+Student 2
+-----------------------
+Rollno: 191093
+Name: Jasprit
+DateofBirth: 07/03/2005
+CGPA = S
+-----------------------
+
+
+Employee 3
+-----------------------
+EmpId: 1003
+Name: Naveen
+Basic Pay = 26000.0
+HRA = 2600.0
+DA = 13000.0
+PF = 260.0
+Gross Pay =41600.0
+Net Pay = 41340.0
+-----------------------
+
+
+Student 3
+-----------------------
+Rollno: 191094
+Name: Deepak
+DateofBirth: 22/04/2005
+CGPA = C
+-----------------------
+
+
+Employee 4
+-----------------------
+EmpId: 1004
+Name: Ramesh
+Basic Pay = 65000.0
+HRA = 6500.0
+DA = 32500.0
+PF = 650.0
+Gross Pay =104000.0
+Net Pay = 103350.0
+-----------------------
+
+
+Student 4
+-----------------------
+Rollno: 191095
+Name: Praveen
+DateofBirth: 30/06/2004
+CGPA = B
+-----------------------
+
+
+Employee 5
+-----------------------
+EmpId: 1005
+Name: Tezza
+Basic Pay = 80000.0
+HRA = 8000.0
+DA = 40000.0
+PF = 800.0
+Gross Pay =128000.0
+Net Pay = 127200.0
+-----------------------
+
+
+Student 5
+-----------------------
+Rollno: 191094
+Name: Vishnu
+DateofBirth: 03/07/2004
+CGPA = A
+-----------------------

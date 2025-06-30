@@ -1,0 +1,15 @@
+<html>
+<h1>Employee Details</h1>
+{% if emps %}
+	<p>_______________________________________</p>
+	{% for emp in emps %}
+		<p>Employee Name: {{emp.emp_name}}</p>
+		<p>Employee ID  : {{emp.emp_no}}</p>
+		<p>Designation  : {{emp.designation}}</p>
+		<p>Mobile No    : {{emp.mobileno}}</p>
+	<p>_______________________________________</p>
+	{% endfor %}
+{% else %}
+	<p>No Records Found</p>
+{% endif %}
+</html>

@@ -1,0 +1,13 @@
+Enter The HouseNo, Name, Starting and Ending Energy Meter Reading of House 1
+45 Harish 700 840
+Enter The HouseNo, Name, Starting and Ending Energy Meter Reading of House 2
+65 Praveen 1000 1289
+Enter The HouseNo, Name, Starting and Ending Energy Meter Reading of House 3
+12 Senthil 100 170
+Enter The HouseNo, Name, Starting and Ending Energy Meter Reading of House 4
+23 Vinoth 490 600
+House No: 45 Name: Harish Bill Amount: 1400.0
+House No: 65 Name: Praveen Bill Amount: 2890.0
+House No: 12 Name: Senthil Bill Amount: 700.0
+House No: 23 Name: Vinoth Bill Amount: 1100.0
+EndOfFile

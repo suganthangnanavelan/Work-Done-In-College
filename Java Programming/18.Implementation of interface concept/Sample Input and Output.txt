@@ -1,0 +1,4 @@
+
+Method Definition from class:Demo1
+
+Method Definition from Interface:Inter

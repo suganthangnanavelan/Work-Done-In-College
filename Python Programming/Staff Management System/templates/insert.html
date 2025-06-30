@@ -1,0 +1,11 @@
+<html>
+<head><title>Add new Staff</title></head>
+<body>
+<h1>Add new Staff Information here:</h1>
+<form method ="POST">
+{{form.as_p}}
+{% csrf_token%}
+<input type ="submit" value = "Add Staff">
+</form>
+</body>
+</html>

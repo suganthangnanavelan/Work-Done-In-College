@@ -1,0 +1,47 @@
+Enter The No of Customers: 3
+Enter Details of Customer1
+Enter Name, Address, Id, Account No, Balance
+Harish
+Kailash Nagar, Kattur, Trichy
+1001
+1200893456
+75000.0
+Enter Details of Customer2
+Enter Name, Address, Id, Account No, Balance
+Kishore
+Balaji Nagar, Trichy
+1002
+1200894583
+47500.50
+Enter Details of Customer3
+Enter Name, Address, Id, Account No, Balance
+Deepak
+Thiruvambur, Trichy
+1003
+1200897639
+90000.0
+Enter The CustomerId:1003
+                1.Deposit
+                2.Withdrawal
+Enter The Choice: 1
+Enter The Amount: 20000.0
+Current Balance: 110000.0
+
+
+Details of Customer1
+Account No: 1200893456  Balance: 75000.0
+Customer Name: Harish
+Customer Address: Kailash Nagar, Kattur, Trichy
+Customer Id: 1001
+
+Details of Customer2
+Account No: 1200894583  Balance: 47500.5
+Customer Name: Kishore
+Customer Address: Balaji Nagar, Trichy
+Customer Id: 1002
+
+Details of Customer3
+Account No: 1200897639  Balance: 110000.0
+Customer Name: Deepak
+Customer Address: Thiruvambur, Trichy
+Customer Id: 1003

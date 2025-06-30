@@ -1,0 +1,61 @@
+Empty String = ""  Capacity = 16
+Empty String = ""  Capacity = 100
+StringBuffer = Object Oriented Programming In JAVA
+StringBuffer in reverse = AVAJ nI gnimmargorP detneirO tcejbO
+Length = 35
+Capacity = 51
+SubStringBuffer = Object
+StringBuffer Converted to String = Object Oriented Programming In JAVA
+Increasing Capacity = 104
+Increasing Length of StringBuffer
+StringBuffer = Object Oriented Programming In JAVA
+Length = 40
+Decreasing Length of StringBuffer
+StringBuffer = Object Oriented Programming
+Length = 27
+Capacity(Before Triming) = 104
+Capacity(After Triming) = 27
+First Index of 'e' = 3
+Last Index of 'e' = 13
+Traversing the StringBuffer character by character
+O b j e c t   O r i e n t e d   P r o g r a m m i n g
+
+Comparing JAVA to java = -32
+
+StringBuffer = Object Oriented Programming
+Appending " In Java" = Object Oriented Programming In Java
+
+StringBuffer = Object Oriented Programming In Java
+Changing character at 0 with 'A' = Abject Oriented Programming In Java
+
+StringBuffer = Abject Oriented Programming In Java
+Inserting "Fully" at 0 index = Fully Abject Oriented Programming In Java
+
+StringBuffer = Fully Abject Oriented Programming In Java
+Inserting "Object" at 6 index = Fully ObjectAbject Oriented Programming In Java
+
+StringBuffer = Fully ObjectAbject Oriented Programming In Java
+Deleting Character at index 43 = Fully ObjectAbject Oriented Programming In ava
+
+StringBuffer = Fully ObjectAbject Oriented Programming In ava
+Deleting from index 12 to 18 = Fully Object Oriented Programming In ava
+
+StringBuffer = Fully Object Oriented Programming In ava
+Replace 'Fully Object' with 'Object' = Object Oriented Programming In ava
+
+StringBuffer(mutable) value gets changed = Object
+
+StringBuffer = ""
+Appending 23(int) = 23
+Deleting 23 = ""
+Appending z(char) = z
+Deleting z = ""
+Appending 129.8228(float) = 129.8228
+Deleting 23 = ""
+Appending false(boolean) = false
+Deleting false = ""
+Inserting 100(int) = 100
+Inserting 1.123(float) at index 1 = 11.12300
+Inserting 'i'(char) at last = 11.12300i
+Inserting true(boolean) at begin = true11.12300i
+Deleting from 4 to 12 = truei

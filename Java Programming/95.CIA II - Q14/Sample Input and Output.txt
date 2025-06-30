@@ -1,0 +1,2 @@
+ArrayList(before) = [9.81, 7.89, 6.85, 8.34, 9.31]  Size = 5
+ArrayList(after) = [9.81, 7.89, 8.17, 6.85, 9.31]

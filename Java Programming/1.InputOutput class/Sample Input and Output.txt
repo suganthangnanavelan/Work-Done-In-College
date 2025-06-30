@@ -1,0 +1,5 @@
+Enter an Integer, Float, Double, String: 12 0.123456 3.1415926535897932384 HelloWorld
+Integer: 12
+Float: 0.123456
+Double: 3.141592653589793
+String: HelloWorld

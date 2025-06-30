@@ -1,0 +1,42 @@
+Enter Student Name, Age, Date of Birth and Aadhar Number: Kevin 18 12-09-200
+4 1209-2918-2923
+Enter The Marks Scored in Five Subjects
+Enter Mark1: 70
+Enter Mark2: 101
+OutOfRangeMarkException: Invalid Mark = 101.0
+Enter Mark2: 99
+Enter Mark3: 56
+Enter Mark4: 24
+Enter Mark5: 32
+Enter Student Name, Age, Date of Birth and Aadhar Number: Benny 17 30-12-200
+5 2901-2929-2910
+Enter The Marks Scored in Five Subjects
+Enter Mark1: 40
+Enter Mark2: 40
+Enter Mark3: 40
+Enter Mark4: 40
+Enter Mark5: 40
+Enter Student Name, Age, Date of Birth and Aadhar Number: Jennifer 18 04-03-
+2004 9202-3928-9392
+Enter The Marks Scored in Five Subjects
+Enter Mark1: 67
+Enter Mark2: 79
+Enter Mark3: 70
+Enter Mark4: 65
+Enter Mark5: 90
+Details of All Students
+Student Details
+Name: Kevin     Age = 18        DOB: 12-09-2004 Aadhar: 1209-2918-2923
+Marks: 70.0     99.0    56.0    24.0    32.0
+Total = 281.0
+Average = 56.2
+Student Details
+Name: Benny     Age = 17        DOB: 30-12-2005 Aadhar: 2901-2929-2910
+Marks: 40.0     40.0    40.0    40.0    40.0
+Total = 200.0
+Average = 40.0
+Student Details
+Name: Jennifer  Age = 18        DOB: 04-03-2004 Aadhar: 9202-3928-9392
+Marks: 67.0     79.0    70.0    65.0    90.0
+Total = 371.0
+Average = 74.2

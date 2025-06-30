@@ -1,0 +1,21 @@
+Enter The Number of Vehicles: 6
+Enter Make, Model, Year, Price Of The Vehicle: Tata Nexon 2023 800000
+Enter Make, Model, Year, Price Of The Vehicle: Maruti_Suzuki Swift 2023 600000
+Enter Make, Model, Year, Price Of The Vehicle: Hyundai Creta 2020 970000
+Enter Make, Model, Year, Price Of The Vehicle: Hyundai Verna 2022 1540000
+Enter Make, Model, Year, Price Of The Vehicle: Mercedes_Benz S-class 2023 15000000
+Enter Make, Model, Year, Price Of The Vehicle: Audi Q5 2023 6200000
+Before Sorting
+[Make = Tata, Model = Nexon, Year = 2023, Price = 800000]
+[Make = Maruti_Suzuki, Model = Swift, Year = 2023, Price = 600000]
+[Make = Hyundai, Model = Creta, Year = 2020, Price = 970000]
+[Make = Hyundai, Model = Verna, Year = 2022, Price = 1540000]
+[Make = Mercedes_Benz, Model = S-class, Year = 2023, Price = 15000000]
+[Make = Audi, Model = Q5, Year = 2023, Price = 6200000]
+After Sorting
+[Make = Maruti_Suzuki, Model = Swift, Year = 2023, Price = 600000]
+[Make = Tata, Model = Nexon, Year = 2023, Price = 800000]
+[Make = Hyundai, Model = Creta, Year = 2020, Price = 970000]
+[Make = Hyundai, Model = Verna, Year = 2022, Price = 1540000]
+[Make = Audi, Model = Q5, Year = 2023, Price = 6200000]
+[Make = Mercedes_Benz, Model = S-class, Year = 2023, Price = 15000000]

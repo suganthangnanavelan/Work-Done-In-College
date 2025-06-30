@@ -1,0 +1,5 @@
+Enter An Integer: 12345
+Enter An String: Hello World!
+
+Integer: 1234
+String: Hello World!

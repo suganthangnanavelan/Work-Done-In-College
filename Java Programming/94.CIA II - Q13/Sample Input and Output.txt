@@ -1,0 +1,7 @@
+Enter The String: racecar
+Entered String: racecar
+Vowels in String
+a
+e
+a
+Entered String Is A Palindrome

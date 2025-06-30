@@ -1,0 +1,10 @@
+Before: [3000-Alice Paul, 3001-Darth Paul, 3002-Bob Mark]
+Forward Traversal
+3200-Alice Paul
+3201-Darth Paul
+3202-Bob Mark
+Backward Traversal
+3202-BOB MARK
+3201-DARTH PAUL
+3200-ALICE PAUL
+After: [3200-ALICE PAUL, 3201-DARTH PAUL, 3202-BOB MARK]

@@ -1,0 +1,21 @@
+Box Class
+Box1    Width=0.0       Height=0.0      Length=0.0
+Box2    Width=12.28     Height=13.67    Length=89.78
+Box3    Width=12.28     Height=13.67    Length=89.78
+Box4    Width=0.0       Height=0.0      Length=0.0
+
+Student Class
+Student1        Rollno: 1929018201
+Mark1: 60.0     Mark2: 79.0     Mark3: 94.0
+Student2        Rollno: 128901892
+Mark1: 89.5     Mark2: 67.0     Mark3: 59.5
+Student3        Rollno: 128901892
+Mark1: 89.5     Mark2: 67.0     Mark3: 59.5
+Student4        Rollno: 1929018201
+Mark1: 60.0     Mark2: 79.0     Mark3: 94.0
+
+Employee Class
+Employee1       Empno: 1001     Salary: 35000.0
+Employee2       Empno: 1002     Salary: 29999.99
+Employee3       Empno: 1002     Salary: 29999.99
+Employee4       Empno: 1001     Salary: 35000.0

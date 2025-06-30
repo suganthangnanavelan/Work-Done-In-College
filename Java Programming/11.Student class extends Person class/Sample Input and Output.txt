@@ -1,0 +1,5 @@
+Student Details
+Name: Naveen    Date of Birth: 19-07-2004
+Rollno: 129091091       Department: Bio Tech
+Mark1: 78.0     Mark2: 64.5     Mark3: 80.0
+Result: 74.16666666666667

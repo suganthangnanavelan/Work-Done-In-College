@@ -1,0 +1,16 @@
+<html>
+<h1>Product Details</h1>
+{% if pros %}
+	<p>_______________________________________</p>
+	{% for pro in pros %}
+		<p>Product Name: {{pro.pro_name}}</p>
+		<p>Category    : {{pro.category}}</p>
+		<p>Quantity    : {{pro.qty}}</p>
+		<p>Price       : {{pro.price}}</p>
+		<p>Discount    : {{pro.discount}}</p>
+	<p>_______________________________________</p>
+	{% endfor %}
+{% else %}
+	<p>No Records Found</p>
+{% endif %}
+</html>

@@ -1,0 +1,42 @@
+#include <LPC214x.h>
+
+void delay(unsigned int z)
+{
+T0CTCR=0X0;
+T0TCR=0X00;
+T0PR=59999;
+T0TCR=0X02;
+T0TCR=0X01;
+while(T0TC < z);
+T0TCR=0X0;
+T0TC=0;
+}
+
+void pll()
+{
+PLL0CON=0X01;
+PLL0CFG=0X24;
+PLL0FEED=0XAA;
+PLL0FEED=0X55;
+while(!(PLL0STAT & (1<<10)));
+PLL0CON = 0X03;
+PLL0FEED=0XAA;
+PLL0FEED=0X55;
+VPBDIV=0X01;
+}
+
+int main()
+{
+PINSEL0 =0X0;
+IO1DIR=0x00FF0000;
+pll();
+while(1)
+{
+IO1SET=0xFFFFFFFF;
+delay(500);
+IO1CLR=0xFFFFFFFF;
+delay(500);
+}
+return 0;
+}
+

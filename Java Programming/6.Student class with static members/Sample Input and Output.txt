@@ -1,0 +1,11 @@
+Static Block
+1124
+Karthi
+1135
+Pranap
+1136
+Sanjay
+Rollno: 1124    Name: Karthi
+Rollno: 1135    Name: Pranap
+Rollno: 1136    Name: Sanjay
+Created 3 Students

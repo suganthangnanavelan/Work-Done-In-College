@@ -1,0 +1,27 @@
+                1.Sphere
+                2.Cone
+                3.Cylinder
+Enter The Choice: 1
+Enter The Radius of Sphere: 10
+Volume = 4188.790204786391
+
+               
+                1.Sphere
+                2.Cone
+                3.Cylinder
+Enter The Choice: 2
+Enter The Radius,Height of Sphere: 10 10
+Volume = 1047.1975511965977
+
+                1.Sphere
+                2.Cone
+                3.Cylinder
+Enter The Choice: 3
+Enter The Radius,Height of Sphere: 10 10
+Volume = 3141.5926535897934
+
+                1.Sphere
+                2.Cone
+                3.Cylinder
+Enter The Choice: 4
+Invalid Choice

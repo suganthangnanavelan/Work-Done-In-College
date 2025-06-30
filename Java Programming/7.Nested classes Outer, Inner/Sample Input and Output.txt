@@ -1,0 +1,2 @@
+Outer class: a=10
+Inner class: b=5

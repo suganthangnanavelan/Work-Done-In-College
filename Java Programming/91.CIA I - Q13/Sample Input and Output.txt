@@ -1,0 +1,5 @@
+Details of Objects
+Feet = 10.0	Inches = 7.0
+Feet = 0.0	Inches = 0.0
+Feet = 10.0	Inches = 7.0
+Average: 2.1505333333333336m

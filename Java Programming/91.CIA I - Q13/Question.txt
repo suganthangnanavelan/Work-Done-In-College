@@ -1,0 +1,1 @@
+CIA-1 Q13.Define the class named Distance with feet and inches as parameters. Initialize the data members using no-argument constructor, parameterized constructor and copy constructor. Create an array of Distance objects, compute and display the average distance.

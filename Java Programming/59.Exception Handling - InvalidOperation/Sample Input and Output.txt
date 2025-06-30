@@ -1,0 +1,26 @@
+Enter Operand1, Operator, Operand2: 10 * 4
+Result of 10 * 4 = 40.0
+
+Enter Operand1, Operator, Operand2: 10 / 0
+Caught: OperationFailedException: Divison/Modulus by zero is not possible
+Caused by: BadOperandException: Operand value = 0
+
+Enter Operand1, Operator, Operand2: 10 ? 9
+Caught: OperationFailedException: Bad operator for operands of type int
+Caused by: BadOperatorException: Operator '?'
+
+Enter Operand1, Operator, Operand2: 10 % 0
+Caught: OperationFailedException: Divison/Modulus by zero is not possible
+Caused by: BadOperandException: Operand value = 0
+
+Enter Operand1, Operator, Operand2: 10 - 0
+Result of 10 - 0 = 10.0
+
+Enter Operand1, Operator, Operand2: 2 | 3
+Result of 2 | 3 = 3.0
+
+Enter Operand1, Operator, Operand2: 2 & 3
+Result of 2 & 3 = 2.0
+
+Enter Operand1, Operator, Operand2: 2 ^ 3
+Result of 2 ^ 3 = 1.0

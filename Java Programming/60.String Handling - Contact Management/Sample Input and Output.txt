@@ -1,0 +1,92 @@
+        Contact Management System
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 1
+Enter Name and Mobile no: Samraj 8290829282
+Insertion successful
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 1
+Enter Name and Mobile no: Kishore 9209902910
+Insertion successful
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 1
+Enter Name and Mobile no: Sanjay 9209902910
+Insertion unsuccessful
+DuplicateContactException: Contact Already Exists       [Contact Name: Kishore, Mobile No: 9209902910]
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 1
+Enter Name and Mobile no: Suraj 3829339382
+Insertion successful
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 1
+Enter Name and Mobile no: Rajput 4829282922
+Insertion successful
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 1
+Enter Name and Mobile no: Naveen 5938292839
+Insertion successful
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 3
+All Contacts detail(sorted)
+[Contact Name: Suraj, Mobile No: 3829339382]
+[Contact Name: Rajput, Mobile No: 4829282922]
+[Contact Name: Naveen, Mobile No: 5938292839]
+[Contact Name: Samraj, Mobile No: 8290829282]
+[Contact Name: Kishore, Mobile No: 9209902910]
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 2
+Enter the substring to be matched: than
+No Contacts found with "than" as substring
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 2
+Enter the substring to be matched: raj
+Contact details with "raj" as substring: [Samraj-8290829282, Suraj-3829339382, Rajput-4829282922]
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 2
+Enter the substring to be matched: a
+Contact details with "a" as substring: [Samraj-8290829282, Suraj-3829339382, Rajput-4829282922, Naveen-5938292839]
+                Menu
+                1.Add contact
+                2.Search and display contacts with matching substring(Ignore Case)
+                3.Display in sorted order
+                4.Exit
+Enter The Choice: 4

@@ -1,0 +1,15 @@
+<html>
+<body>
+<ul>	<h2>Details of Applicant's</h2>
+	{% for i in m %}
+		<li> {{i.name}} {{i.mobileno}} {{i.email}} {{i.type}} {{i.instrument}}</li>
+	{% endfor %}
+	<p></p>
+	<h2>Details of Applicant's Music Programme</h2>
+	<p></p>
+	{% for i in c %}
+		<li> {{i.place}} {{i.duration}} {{i.awards}} {{i.title}}</li>
+	{% endfor %}
+</ul>
+</html>
+</body>

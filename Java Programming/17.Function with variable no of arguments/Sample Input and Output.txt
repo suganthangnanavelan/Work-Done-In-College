@@ -1,0 +1,13 @@
+
+No of Arguments: 5
+100
+200
+300
+400
+500
+
+No of Arguments: 4
+CSE
+IT
+ICT
+AIDS

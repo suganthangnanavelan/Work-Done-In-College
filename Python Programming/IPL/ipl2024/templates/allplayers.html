@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1>All Players</h1>
+<ul>
+	{% for x in allplayers %}
+		<li>{{x.name}} {{x.team}} {{x.jersey_no}}</li>
+	{% endfor %}
+</ul>
+	
+</html>
+</body>

@@ -1,0 +1,29 @@
+Inserted = 20
+Popped = 20
+Inserted = 63
+Popped = 63
+Inserted = 45
+Inserted = 83
+Popped = 45
+Inserted = 60
+Inserted = 0
+Popped = 83
+Inserted = 3
+Popped = 60
+Popped = 0
+Popped = 3
+Inserted = 48
+Popped = 48
+Inserted = 66
+Inserted = 69
+Inserted = 28
+Popped = 66
+Inserted = 64
+Popped = 69
+Inserted = 74
+Popped = 28
+Popped = 64
+Popped = 74
+.
+.
+.
