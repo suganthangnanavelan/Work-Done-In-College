@@ -1,4 +1,4 @@
-# 🎓 College Coding Portfolio
+# College Coding Work
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Data%20Structures%20%26%20Algorithms-blue?logo=cpp)
 ![Python](https://img.shields.io/badge/Python-Django%20%7C%20NLP%20%7C%20AI-green?logo=python)
@@ -16,7 +16,7 @@
 ## About This Repository
 
 This repository is a collection of all the programming work I completed throughout my college journey.
-It includes all the codes i wrote and code of others that i used for reference. This can be freely used under MIT License.
+This repository contains all the code I've written, along with some reference code from other sources. Feel free to use or modify it — it's all available under the MIT License.
 
 ### Directory Structure
 ```
@@ -27,7 +27,7 @@ Root/
 │   ├── 03. Genetic Algorithm/
 │   ├── 04. Simulated Annealing/
 │   ├── 05. Alpha Beta Pruning/
-│   ├── 06. Consraint Satisfaction Problems (CSP)/
+│   ├── 06. Constraint Satisfaction Problems (CSP)/
 │   ├── 07. Random Sampling/
 │   ├── 08. Z Test/
 │   ├── 09. T Test/
@@ -166,42 +166,42 @@ Root/
 
 ## What’s Inside
 
-### 📁 Artificial Intelligence & Data Science
+### Artificial Intelligence & Data Science
 AI agent implementations, search algorithms, decision-making models.
 
-### 📁 Computer System Design
+### Computer System Design
 ARM-based programming done using Keil software. Covers embedded C, register operations, and low-level interfacing.
 
-### 📁 Data Structures
+### Data Structures
 C++ programs implementing stacks, queues, linked lists, trees, graphs, hashing, and recursion.
 
-### 📁 Design & Analysis of Algorithms
+### Design & Analysis of Algorithms
 Algorithm design techniques including divide & conquer, dynamic programming, greedy strategies, and complexity analysis.
 
-### 📁 Digital System Design
+### Digital System Design
 Digital circuits designed in Verilog and Logisim. Includes combinational circuits, adders, counters, and memory units.
 
-### 📁 Explainable AI
+### Explainable AI
 Projects on interpreting black-box models. Use of tools and techniques like LIME, SHAP, and visual explanation for ML decisions.
 
-### 📁 Java Programming
+### Java Programming
 UI-based applications developed using Java Swing and AWT. Includes form-based tools. Developed Simple Calculator.
 
-### 📁 Machine Learning
+### Machine Learning
 Core ML algorithms: Linear regression, classification, clustering, dimensionality reduction, and model evaluation.
 
-### 📁 Natural Language Processing
+### Natural Language Processing
 Projects using Python and NLTK: tokenization, text classification, sentiment analysis, POS tagging, and more.
 
-### 📁 Python Programming with Web Frameworks
+### Python Programming with Web Frameworks
 Learnt basics in Python. Built Simple Web apps using Django. 
 
-### 📁 Time Series & Sequential Analytics
+### Time Series & Sequential Analytics
 Time series forecasting using ARMA, ARIMA, SARIMA and VARIMA. Includes data cleaning and temporal visualization.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
