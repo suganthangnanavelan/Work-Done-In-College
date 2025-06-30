@@ -13,9 +13,12 @@
 
 ---
 
-## About This Repository
+### About This Repository
 
 This repository is a collection of all the programming work I completed throughout my college journey.
+
+---
+
 This repository contains all the code I've written, along with some reference code from other sources. Feel free to use or modify it — it's all available under the MIT License.
 
 ### Directory Structure
@@ -167,48 +170,48 @@ Root/
 ```
 ---
 
-## What’s Inside
+### What’s Inside
 
-### Artificial Intelligence & Data Science
+#### Artificial Intelligence & Data Science
 AI agent implementations, search algorithms, decision-making models.
 
-### Computer System Design
+#### Computer System Design
 ARM-based programming done using Keil software. Covers embedded C, register operations, and low-level interfacing.
 
-### Data Structures
+#### Data Structures
 C++ programs implementing stacks, queues, linked lists, trees, graphs, hashing, and recursion.
 
-### Design & Analysis of Algorithms
+#### Design & Analysis of Algorithms
 Algorithm design techniques including divide & conquer, dynamic programming, greedy strategies, and complexity analysis.
 
-### Digital System Design
+#### Digital System Design
 Digital circuits designed in Verilog and Logisim. Includes combinational circuits, adders, counters, and memory units.
 
-### Explainable AI
+#### Explainable AI
 Projects on interpreting black-box models. Use of tools and techniques like LIME, SHAP, and visual explanation for ML decisions.
 
-### Java Programming
+#### Java Programming
 UI-based applications developed using Java Swing and AWT. Includes form-based tools. Developed Simple Calculator.
 
-### Machine Learning
+#### Machine Learning
 Core ML algorithms: Linear regression, classification, clustering, dimensionality reduction, and model evaluation.
 
-### Natural Language Processing
+#### Natural Language Processing
 Projects using Python and NLTK: tokenization, text classification, sentiment analysis, POS tagging, and more.
 
-### Python Programming with Web Frameworks
+#### Python Programming with Web Frameworks
 Learnt basics in Python. Built Simple Web apps using Django. 
 
-### Time Series & Sequential Analytics
+#### Time Series & Sequential Analytics
 Time series forecasting using ARMA, ARIMA, SARIMA and VARIMA. Includes data cleaning and temporal visualization.
 
-## License
+### License
 
 This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
-## Acknowledgments
+### Acknowledgments
 
 Thanks to all the professors, mentors, and peers who contributed to this learning journey. Each piece of code here tells a part of my growth as a developer.
 
