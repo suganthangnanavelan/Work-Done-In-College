@@ -1,4 +1,4 @@
-# College Coding Work
+## Code Vault: Algorithms, AI, Data Science, NLP, System Design & Web
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Data%20Structures%20%26%20Algorithms-blue?logo=cpp)
 ![Python](https://img.shields.io/badge/Python-Django%20%7C%20NLP%20%7C%20AI-green?logo=python)
@@ -122,7 +122,10 @@ Root/
 │   ├── data/
 │   └── Ouestions/
 ├── Java Programming/
-│   └── [Contains 99 folders: 01.InputOutput class/ to 99.CIA III - Q14/]
+│   ├── 01. InputOutput class
+│   ├── 02. Box class - basic demonstration
+│   ├── ...
+│   └── 99. CIA III - Q14
 ├── Machine Learning/
 │   ├── data/
 │   ├── ML 1/
